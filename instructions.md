@@ -5,7 +5,7 @@ Welcome to the technical assessment for the AEM Developer role.
 ## Prerequisites
 -   **Java 11** installed and configured.
 -   **Maven 3.9.x** installed and configured.
--   IDE of your choice (IntelliJ IDEA Recommended).
+-   IDE of your choice.
 
 ## Instructions
 
