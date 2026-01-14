@@ -1,6 +1,6 @@
 package com.claemexample.core.models;
 
-import com.claemexample.core.services.GreetingService;
+import com.claemexample.core.services.GreetingServices;
 import org.apache.sling.api.resource.Resource;
 import org.apache.sling.models.annotations.Default;
 import org.apache.sling.models.annotations.Model;
