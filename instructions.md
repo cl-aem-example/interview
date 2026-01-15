@@ -46,6 +46,13 @@ git checkout -b candidate/your-name
 4.  Ensure the component displays the new format: `"{TimeBasedGreeting}, {Name}!"`.
 5.  **Commit your changes** to your branch.
 
+#### Task 3: Pull Request Review
+1.  Review the open pull request and provide your feedback to the team.
+
+#### Task 4: Additional Task (optional)
+1.  Add a new feature to the `Simple Greeting` component that will render a random super hero name to display.  The super hero service is already implemented in the `core` bundle.
+2.  **Commit your changes** to your branch. 
+
 ## Submission
 Once completed, push your branch to the repository and notify the hiring manager.
 
