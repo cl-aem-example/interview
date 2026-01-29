@@ -34,7 +34,6 @@ git checkout -b candidate/your-name
 2.  Fix the compilation issue in the `core` bundle.
 3.  Deploy the code and test the component on a page.
 4.  Identify and fix the issue where the greeting message is not displaying in the HTML.
-5.  **Commit your changes** to your branch.
 
 #### Task 2: Feature Enhancement (Issue #4)
 **Context:** We want to enhance the greeting service to be time-aware.
@@ -44,16 +43,11 @@ git checkout -b candidate/your-name
 2.  Modify the `GreetingService` (Interface & Implementation) to return a greeting based on the current time of day (Morning/Afternoon/Evening).
 3.  Update the Sling Model to utilize this new logic.
 4.  Ensure the component displays the new format: `"{TimeBasedGreeting}, {Name}!"`.
-5.  **Commit your changes** to your branch.
 
 #### Task 3: Pull Request Review
-1.  Review the open pull request and provide your feedback to the team.
+You've just joined the team as a Senior Dev. A junior developer has been working on this 'Navigation Utility' and just submitted this PR. The Product Owner is pushing to get this into the next sprint.
+
+Could you take 10 minutes to review the Issue and the PR, and tell us: is this ready to merge? If not, what changes—both architectural and technical—would you require before approving?"
 
 #### Task 4: Additional Task (optional)
 1.  Add a new feature to the `Simple Greeting` component that will render a random super hero name to display.  The super hero service is already implemented in the `core` bundle.
-2.  **Commit your changes** to your branch. 
-
-## Submission
-Once completed, push your branch to the repository and notify the hiring manager.
-
-Good luck!
